@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently looking for software engineering roles<br>🌱 I’m currently learning Machine Learning<br>  📫 How to reach me **alvin.jonathan22@yahoo.com**<br> <br>
+🔭 I’m currently looking for a software engineering role<br>🌱 I’m currently learning Machine Learning<br>  📫 How to reach me: **alvin.jonathan22@yahoo.com**<br> <br>
 
 
 <h3 align="left">Connect with me:</h3>
