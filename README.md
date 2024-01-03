@@ -1,6 +1,6 @@
 ![MasterHead](/assets/qpiln2r753141.gif)
 <h1 align="center">Hi 👋, I'm Alvin Jonathan</h1>
-<h3 align="center">A Computer Science Student at Imperial College London</h3>
+<h3 align="center">I am a 23 year old Computer Science student at Imperial College London</h3>
 <img align="right" alt="Coding" width="400" src="/assets/img1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajonw&label=Profile%20views&color=0e75b6&style=flat" alt="ajonw" /> </p>
@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently looking for software engineering roles<br>🌱 I’m currently learning Machine Learning<br><br>
+🔭 I’m currently looking for software engineering roles<br>🌱 I’m currently learning Machine Learning<br>  📫 How to reach me **alvin.jonathan22@yahoo.com**<br> <br>
 
 
 <h3 align="left">Connect with me:</h3>
